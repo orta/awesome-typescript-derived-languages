@@ -52,6 +52,6 @@ A TypeScript re-implementation of TypeScript built to be evaluated reactively (l
 
 #### Mini Typescript
 
-Mini Typescript (_yes, with the lowercase-s_) is a miniture version of the TypeScript compiler, built with the goal of helping you unedrstand the compiler architcture of the main TypeScript compiler
+Mini Typescript (_yes, with the lowercase-s_) is a miniature version of the TypeScript compiler, built with the goal of helping you unedrstand the compiler architcture of the main TypeScript compiler
 
 - [Repo](https://github.com/sandersn/mini-typescript).
