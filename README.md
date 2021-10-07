@@ -1,4 +1,4 @@
-# awesome-typescript-derived-langauges
+# awesome-typescript-derived-languages
 
 These projects aim to be (mostly) syntax compatible with TypeScript, but with different end goals than what TypeScript has. 
 
