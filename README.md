@@ -9,11 +9,13 @@ These projects aim to be (mostly) syntax compatible with TypeScript, but with di
 A re-implementation of TypeScript designed for the small memory-constrained devices with a visual programming environment.
 
 - [Used in production at MakeCode Arcade](https://arcade.makecode.com)
+- [Playground](https://makecode.com/playground#functions)
 - [Research Paper](https://www.microsoft.com/en-us/research/publication/static-typescript/)
+- [GitHub](https://github.com/microsoft/pxt/tree/master/pxtcompiler)
 
 #### TypeScriptCompiler
 
-An LLVM-backed implementation of TypeScript which can be built as native binaries or WASM.
+An LLVM-backed C++ implementation of TypeScript which can be built as native binaries or WASM.
 
 - [GitHub](https://github.com/ASDAlexander77/TypeScriptCompiler)
 
