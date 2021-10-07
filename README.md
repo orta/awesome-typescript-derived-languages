@@ -19,7 +19,7 @@ An LLVM-backed implementation of TypeScript which can be built as native binarie
 
 #### BorrowScript
 
-A Rust-inspired version of TypeScript which adds syntax to describe how variables will be used in functions, allowing for reliable fast multi-threaded applications with a higher-level language than Rust.
+A Rust-inspired specification for a version of TypeScript which adds syntax to describe how variables will be used in functions, allowing for reliable fast multi-threaded applications with a higher-level language than Rust.
 
 - [GitHub](https://github.com/alshdavid/BorrowScript)
 
