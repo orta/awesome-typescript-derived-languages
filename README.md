@@ -25,7 +25,7 @@ A Rust-inspired version of TypeScript which adds syntax to describe how variable
 
 ## TypeScript to WASM
 
-#### BorrowScript
+#### AssemblyScript
 
 A re-implementation of TypeScript built specifically with the goals of compiling to WASM via [Binaryen](https://github.com/WebAssembly/binaryen).
 
