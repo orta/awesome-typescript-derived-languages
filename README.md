@@ -50,3 +50,8 @@ A TypeScript re-implementation of TypeScript built to be evaluated reactively (l
 - [Repo](https://github.com/jaked/programmable-matter#language)
 - [Write-up](https://jaked.org/blog/2021-09-07-Reconstructing-TypeScript-part-0)
 
+#### Mini Typescript
+
+Mini Typescript (_yes, with the lowercase-s_) is a miniture version of the TypeScript compiler, built with the goal of helping you unedrstand the compiler architcture of the main TypeScript compiler
+
+- [Repo](https://github.com/sandersn/mini-typescript).
