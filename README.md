@@ -45,7 +45,7 @@ A re-implementation of TypeScript in C# built with the goals of restricting dyna
 
 #### TS--
 
-A TypeScript re-implementation of TypeScript built to be evaluated reactively (like a speadsheet), has a sound type-checker and restricts mutable state.
+A TypeScript re-implementation of TypeScript built to be evaluated reactively (like a spreadsheet), has a sound type-checker and restricts mutable state.
 
 - [Repo](https://github.com/jaked/programmable-matter#language)
 - [Write-up](https://jaked.org/blog/2021-09-07-Reconstructing-TypeScript-part-0)
