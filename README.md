@@ -11,19 +11,19 @@ A re-implementation of TypeScript designed for the small memory-constrained devi
 - [Used in production at MakeCode Arcade](https://arcade.makecode.com)
 - [Playground](https://makecode.com/playground#functions)
 - [Research Paper](https://www.microsoft.com/en-us/research/publication/static-typescript/)
-- [GitHub](https://github.com/microsoft/pxt/tree/master/pxtcompiler)
+- [Repo](https://github.com/microsoft/pxt/tree/master/pxtcompiler)
 
 #### TypeScriptCompiler
 
 An LLVM-backed C++ implementation of TypeScript which can be built as native binaries or WASM.
 
-- [GitHub](https://github.com/ASDAlexander77/TypeScriptCompiler)
+- [Repo](https://github.com/ASDAlexander77/TypeScriptCompiler)
 
 #### BorrowScript
 
 A Rust-inspired specification for a version of TypeScript which adds syntax to describe how variables will be used in functions, allowing for reliable fast multi-threaded applications with a higher-level language than Rust.
 
-- [GitHub](https://github.com/alshdavid/BorrowScript)
+- [Repo](https://github.com/alshdavid/BorrowScript)
 
 ## TypeScript to WASM
 
@@ -42,4 +42,11 @@ A re-implementation of TypeScript in C# built with the goals of restricting dyna
 
 - [Docs](https://github.com/microsoft/BuildXL/blob/master/Documentation/Wiki/DScript/Introduction.md#DScript-guiding-principles)
 - [Repo](https://github.com/microsoft/BuildXL/tree/master/Public/Src/FrontEnd/TypeScript.Net/TypeScript.Net)
+
+#### TS--
+
+A TypeScript re-implementation of TypeScript built to be evaluated reactively (like a speadsheet), has a sound type-checker and restricts mutable state.
+
+- [Repo](https://github.com/jaked/programmable-matter#language)
+- [Write-up](https://jaked.org/blog/2021-09-07-Reconstructing-TypeScript-part-0)
 
