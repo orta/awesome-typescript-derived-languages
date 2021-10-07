@@ -31,3 +31,13 @@ A re-implementation of TypeScript built specifically with the goals of compiling
 
 - [Docs](https://www.assemblyscript.org)
 - [Repo](https://github.com/AssemblyScript)
+
+## TypeScript to JavaScript
+
+#### DScript
+
+A re-implementation of TypeScript in C# built with the goals of restricting dynamic features and allowing for predictive codeflow and parallel evaluation. 
+
+- [Docs](https://github.com/microsoft/BuildXL/blob/master/Documentation/Wiki/DScript/Introduction.md#DScript-guiding-principles)
+- [Repo](https://github.com/microsoft/BuildXL/tree/master/Public/Src/FrontEnd/TypeScript.Net/TypeScript.Net)
+
