@@ -6,20 +6,20 @@ These projects aim to be (mostly) syntax compatible with TypeScript, but with di
 
 #### Static TypeScript
 
-A re-implementation of TypeScript designed for the small memory-constrained devices.
+A re-implementation of TypeScript designed for the small memory-constrained devices with a visual programming environment.
 
 - [Used in production at MakeCode Arcade](https://arcade.makecode.com)
 - [Research Paper](https://www.microsoft.com/en-us/research/publication/static-typescript/)
 
 #### TypeScriptCompiler
 
-An LLVM-backed implementation of TypeScript which can be built as native binaries or WASM
+An LLVM-backed implementation of TypeScript which can be built as native binaries or WASM.
 
 - [GitHub](https://github.com/ASDAlexander77/TypeScriptCompiler)
 
 #### BorrowScript
 
-A Rust-inspired version of TypeScript which adds syntax to describe how variables will be used in functions, allowing for reliable fast multi-threaded applications.
+A Rust-inspired version of TypeScript which adds syntax to describe how variables will be used in functions, allowing for reliable fast multi-threaded applications with a higher-level language than Rust.
 
 - [GitHub](https://github.com/alshdavid/BorrowScript)
 
