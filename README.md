@@ -38,9 +38,9 @@ A re-implementation of TypeScript built specifically with the goals of compiling
 
 #### JSii
 
-A project using the TypeScript compiler to allow a subset of JS/TS code to be portable across Python, Java, C# and other .NET languages. Built to make it easy to create polyglot libraries.
+A project using a modified TypeScript compiler to allow a subset of JS/TS code to be portable across Python, Java, C# and other .NET languages. Built to make it easy to create polyglot libraries.
 
-- [Docs](https://aws.github.io/jsii/)
+- [Overview](https://aws.amazon.com/blogs/opensource/how-the-jsii-open-source-framework-meets-developers-where-they-are/)
 - [Repo](https://github.com/aws/jsii/tree/main/packages/jsii)
 
 ## TypeScript to JavaScript
