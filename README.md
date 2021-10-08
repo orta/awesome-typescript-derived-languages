@@ -36,7 +36,7 @@ A re-implementation of TypeScript built specifically with the goals of compiling
 
 ## TypeScript to Many Languages
 
-#### jsii
+#### JSii
 
 A project using the TypeScript compiler to allow a subset of JS/TS code to be portable across Python, Java, C# and other .NET languages. Built to make it easy to create polyglot libraries.
 
