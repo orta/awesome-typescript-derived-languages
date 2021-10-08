@@ -34,6 +34,15 @@ A re-implementation of TypeScript built specifically with the goals of compiling
 - [Docs](https://www.assemblyscript.org)
 - [Repo](https://github.com/AssemblyScript)
 
+## TypeScript to Many Languages
+
+#### jsii
+
+A project using the TypeScript compiler to allow a subset of JS/TS code to be portable across Python, Java, C# and other .NET languages. Built to make it easy to create polyglot libraries.
+
+- [Docs](https://aws.github.io/jsii/)
+- [Repo](https://github.com/aws/jsii/tree/main/packages/jsii)
+
 ## TypeScript to JavaScript
 
 #### DScript
