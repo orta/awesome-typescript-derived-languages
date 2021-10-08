@@ -6,7 +6,7 @@ These projects aim to be (mostly) syntax compatible with TypeScript, but with di
 
 #### Static TypeScript
 
-A re-implementation of TypeScript designed for the small memory-constrained devices with a visual programming environment.
+A re-implementation of TypeScript designed for small memory-constrained devices with a visual programming environment.
 
 - [Used in production at MakeCode Arcade](https://arcade.makecode.com)
 - [Playground](https://makecode.com/playground#functions)
