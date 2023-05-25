@@ -4,6 +4,13 @@ These projects aim to be (mostly) syntax compatible with TypeScript, but with di
 
 ## TypeScript to Native
 
+#### DeviceScript (2023 - Present)
+
+TypeScript for Tiny IoT Devices. DeviceScript brings a professional TypeScript developer experience to low-resource microcontroller-based devices. DeviceScript is compiled to a custom VM bytecode, which can run in very constrained environments.
+
+- [Site](https://microsoft.github.io/devicescript/)
+- [Repo](https://github.com/microsoft/devicescript/tree/)
+
 #### Static TypeScript (2019 - Present)
 
 A re-implementation of TypeScript designed for small memory-constrained devices with a visual programming environment.
@@ -18,14 +25,6 @@ A re-implementation of TypeScript designed for small memory-constrained devices 
 An LLVM-backed C++ implementation of TypeScript which can be built as native binaries or WASM.
 
 - [Repo](https://github.com/ASDAlexander77/TypeScriptCompiler)
-
-#### DeviceScript (2023-)
-
-TypeScript for Tiny IoT Devices. DeviceScript brings a professional TypeScript developer experience to low-resource microcontroller-based devices. DeviceScript is compiled to a custom VM bytecode, which can run in very constrained environments.
-
-- [Site](https://microsoft.github.io/devicescript/)
-- [Repo](https://github.com/microsoft/devicescript/tree/)
-
 
 ## TypeScript to WASM
 
