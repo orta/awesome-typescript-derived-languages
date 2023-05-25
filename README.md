@@ -25,6 +25,14 @@ A Rust-inspired specification for a version of TypeScript which adds syntax to d
 
 - [Repo](https://github.com/alshdavid/BorrowScript)
 
+#### DeviceScript
+
+TypeScript for Tiny IoT Devices. DeviceScript brings a professional TypeScript developer experience to low-resource microcontroller-based devices. DeviceScript is compiled to a custom VM bytecode, which can run in very constrained environments.
+
+- [Site](https://microsoft.github.io/devicescript/)
+- [Repo](https://github.com/microsoft/devicescript/tree/)
+
+
 ## TypeScript to WASM
 
 #### AssemblyScript
