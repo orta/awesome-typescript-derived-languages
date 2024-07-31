@@ -26,6 +26,16 @@ An LLVM-backed C++ implementation of TypeScript which can be built as native bin
 
 - [Repo](https://github.com/ASDAlexander77/TypeScriptCompiler)
 
+#### Porffor (2024 - Present)
+
+A from-scratch experimental ahead-of-time JS engine with native TypeScript support
+
+Porffor is a unique JS engine/compiler/runtime, compiling JS code to WebAssembly or native ahead-of-time.
+It is seriously limited for now; intended for research, not serious use!
+
+- [Site](https://porffor.dev)
+- [Repo](https://github.com/CanadaHonk/porffor)
+
 ## TypeScript to WASM
 
 #### AssemblyScript (2017 - Present)
