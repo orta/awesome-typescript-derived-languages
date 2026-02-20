@@ -4,6 +4,13 @@ These projects aim to be (mostly) syntax compatible with TypeScript, but with di
 
 ## TypeScript to Native
 
+#### Tsonic (2025 - Present)
+
+Tsonic is a TypeScript to C# compiler that produces native executables via .NET NativeAOT. Write TypeScript, get fast native binaries. Opt into @tsonic/js (JavaScript runtime APIs) and @tsonic/nodejs (Node-style APIs) when you want them.
+
+- [Site](https://tsonic.org/)
+- [Repo](https://github.com/tsoniclang/tsonic)
+
 #### DeviceScript (2023 - Present)
 
 TypeScript for Tiny IoT Devices. DeviceScript brings a professional TypeScript developer experience to low-resource microcontroller-based devices. DeviceScript is compiled to a custom VM bytecode, which can run in very constrained environments.
